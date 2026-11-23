@@ -1,0 +1,110 @@
+[
+ {
+  "id": "t1",
+  "linea": "tienda",
+  "nombre": "Organizador multiusos",
+  "precio": 35000,
+  "antes": 0,
+  "categoria": "Hogar",
+  "desc": "Producto destacado de ejemplo. Cámbialo desde el panel (#admin).",
+  "imgs": [],
+  "novedad": false,
+  "destacado": true
+ },
+ {
+  "id": "t2",
+  "linea": "tienda",
+  "nombre": "Producto de hogar",
+  "precio": 28000,
+  "antes": 0,
+  "categoria": "Hogar",
+  "desc": "Una solución práctica para la casa.",
+  "imgs": [],
+  "novedad": false,
+  "destacado": false
+ },
+ {
+  "id": "t3",
+  "linea": "tienda",
+  "nombre": "Accesorio del momento",
+  "precio": 22000,
+  "antes": 0,
+  "categoria": "Accesorios",
+  "desc": "Describe aquí tu accesorio.",
+  "imgs": [],
+  "novedad": true,
+  "destacado": false
+ },
+ {
+  "id": "t4",
+  "linea": "tienda",
+  "nombre": "Idea para regalar",
+  "precio": 45000,
+  "antes": 0,
+  "categoria": "Regalos",
+  "desc": "Un detalle que sorprende.",
+  "imgs": [],
+  "novedad": false,
+  "destacado": false
+ },
+ {
+  "id": "s1",
+  "linea": "streaming",
+  "nombre": "Películas",
+  "precio": 0,
+  "antes": 0,
+  "categoria": "Películas",
+  "desc": "Describe aquí tu servicio de películas.",
+  "imgs": [],
+  "novedad": false,
+  "destacado": false
+ },
+ {
+  "id": "s2",
+  "linea": "streaming",
+  "nombre": "TV Online",
+  "precio": 0,
+  "antes": 0,
+  "categoria": "TV Online",
+  "desc": "Describe aquí tu servicio de TV online.",
+  "imgs": [],
+  "novedad": false,
+  "destacado": false
+ },
+ {
+  "id": "s3",
+  "linea": "streaming",
+  "nombre": "Series",
+  "precio": 0,
+  "antes": 0,
+  "categoria": "Series",
+  "desc": "Describe aquí tu servicio de series.",
+  "imgs": [],
+  "novedad": false,
+  "destacado": false
+ },
+ {
+  "id": "s4",
+  "linea": "streaming",
+  "nombre": "Deportes",
+  "precio": 0,
+  "antes": 0,
+  "categoria": "Deportes",
+  "desc": "Describe aquí tu servicio de deportes.",
+  "imgs": [],
+  "novedad": false,
+  "destacado": false
+ },
+ {
+  "id": "s5",
+  "linea": "streaming",
+  "nombre": "Entretenimiento digital",
+  "precio": 0,
+  "antes": 0,
+  "categoria": "Entretenimiento digital",
+  "desc": "Describe aquí tu servicio de entretenimiento digital.",
+  "imgs": [],
+  "novedad": false,
+  "destacado": false
+ }
+]

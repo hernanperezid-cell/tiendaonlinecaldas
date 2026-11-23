@@ -1,0 +1,25 @@
+MI TIENDA - PAQUETE LISTO
+=========================
+
+QUE HACER (10 minutos, una sola vez)
+
+1) GITHUB: entra a tu repositorio, borra los archivos viejos y sube
+   TODO el contenido de esta carpeta (ya descomprimida), manteniendo
+   la carpeta "netlify/functions" con sus 2 archivos adentro.
+   Tip: en GitHub usa "Add file > Upload files" y arrastra la carpeta
+   completa; los archivos deben quedar en la raiz del repositorio.
+
+2) NETLIFY: Site configuration > Environment variables > Add a variable
+      Key:   ADMIN_PASSWORD
+      Value: la clave que tu quieras
+   Luego Deploys > Trigger deploy > Deploy site.
+
+3) TU WHATSAPP: abre index.html y en el bloque CONFIG cambia
+   whatsapp: "573000000000"  por tu numero (57 + numero, sin + ni espacios).
+
+COMO ADMINISTRAR (todos los dias, sin tocar codigo)
+- Entra a tu pagina y pulsa "Administrar" al final (o agrega #admin
+  a la direccion: tiendaonlinecaldass.netlify.app/#admin).
+- Escribe tu clave. Puedes agregar productos, subir fotos, cambiar
+  precios, editar o quitar. Los clientes ven los cambios al instante.
+- Los clientes NO ven el panel sin la clave.
